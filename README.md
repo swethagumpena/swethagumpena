@@ -78,6 +78,11 @@ I’m a **full stack developer** and I focus on building highly, functional, rob
   </tr>
 </table>
 
+### Connect
+
+<a href="https://www.linkedin.com/in/swetha-gumpena/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:swetha.gumpena0607@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 <!--
 **swethagumpena/swethagumpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
