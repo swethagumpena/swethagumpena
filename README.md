@@ -30,6 +30,7 @@ I’m a **full stack developer** and I focus on building highly, functional, rob
         <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -66,6 +67,7 @@ I’m a **full stack developer** and I focus on building highly, functional, rob
       <div float="left">
        <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
        <img src="https://img.shields.io/badge/Jira-%230A83D0.svg?style=flat-square&logo=jira&logoColor=white"/>
        <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/>
        <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=white"/>
